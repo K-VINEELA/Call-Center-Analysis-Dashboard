@@ -93,5 +93,5 @@ This project presents a **dynamic and interactive Power BI dashboard** designed 
    - Integrate drill-through pages for deeper analysis of unresolved calls and dissatisfied customers.
 
 ---
-
+![Dashboard Overview](callcenterdasboard.png)
 
